@@ -13,4 +13,4 @@
 [Click to Download](https://github.com/mtstorehub/Employee-Management/tree/master/dist/demo.zip)
 	
 
-![Screenshot](https://github.com/mtstorehub/Employee-Management/tree/master/dist/screenshot/ss.PNG )
+![Screenshot](https://github.com/mtstorehub/Employee-Management/blob/master/dist/screenshot/ss.PNG)
