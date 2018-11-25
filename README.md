@@ -9,3 +9,8 @@
     - payroll system
     - payslip printing
     - autocomplete searching
+	
+	[Click to Download](https://github.com/mtstorehub/Employee-Management/tree/master/dist/demo.zip)
+	
+
+![Screenshot](https://github.com/mtstorehub/Employee-Management/tree/master/dist/screenshot/ss.png)
